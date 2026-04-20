@@ -5,8 +5,9 @@ Hegel is primarily maintained by Hypothesis developers, as part of their work at
 Our current Hegel libraries are:
 * [hegel-rust](https://github.com/hegeldev/hegel-rust)
 * [hegel-go](https://github.com/hegeldev/hegel-go)
+* [hegel-cpp](https://github.com/hegeldev/hegel-cpp)
 
-We also have libraries in various states of completion for C++, OCaml, and TypeScript, and expect to release some of them soon.
+We also have libraries in various states of completion for OCaml and TypeScript, and expect to release them in the coming weeks.
 
 If you want to learn more, [check out the website](https://hegel.dev/).
 
