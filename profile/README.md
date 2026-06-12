@@ -7,6 +7,7 @@ Our current Hegel libraries are:
 * [hegel-go](https://github.com/hegeldev/hegel-go)
 * [hegel-cpp](https://github.com/hegeldev/hegel-cpp)
 * [hegel-typescript](https://github.com/hegeldev/hegel-typescript)
+* [hegel-java](https://github.com/hegeldev/hegel-java)
 
 If you want to learn more, [check out the website](https://hegel.dev/).
 
